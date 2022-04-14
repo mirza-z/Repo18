@@ -20,6 +20,7 @@ header{
     display: grid;
     grid-template-columns: 1fr;
     background-color: rgb(39, 43, 53);
+    border-bottom: 5px solid orangered;
 }
 
 header .container{
